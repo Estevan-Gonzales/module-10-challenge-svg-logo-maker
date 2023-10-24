@@ -22,8 +22,6 @@ criteria = [
     name: 'shapeColor'}
 ]
 
-
-
 function writeToFile(fileName, criteria) {
     inquirer
     .prompt(criteria).then((data) => {
@@ -32,5 +30,4 @@ function writeToFile(fileName, criteria) {
         )});
 }
 
-
-writeToFile('logo2.svg', criteria)
+writeToFile('logo.svg', criteria)
