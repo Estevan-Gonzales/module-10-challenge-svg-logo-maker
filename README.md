@@ -11,9 +11,7 @@ This project allowed me to sharpen my skills in JavaScript, and gain a better un
 ### Option 1:
 1. Inspect written JavaScript code directly on Github.
 2. View Github page of raw JavaScript code using the link below:
-   https://github.com/Estevan-Gonzales/module-10-challenge-svg-logo-maker/blob/main/assets/js/script.js
-3. Use Developer Tools to view meta data associated with the compiled JavaScript found below:
-   https://estevan-gonzales.github.io/module-10-challenge-svg-maker/
+   https://github.com/Estevan-Gonzales/module-10-challenge-svg-logo-maker/blob/main/lib/shapes.js
  
 ### Option 2:
 1. Clone this repository to your local machine.
