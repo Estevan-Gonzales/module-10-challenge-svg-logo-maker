@@ -25,5 +25,7 @@ This project allowed me to sharpen my skills in JavaScript, and gain a better un
 4. An SVG file of the logo will be produced in the folder.
 
 ## License
-
 MIT License
+
+## Walkthrough
+https://drive.google.com/file/d/1n_ldYW5VIvJVZsjE56_YFqpFNoth_xRc/view?usp=sharing
