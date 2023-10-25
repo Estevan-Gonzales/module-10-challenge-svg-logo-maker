@@ -1,4 +1,4 @@
-# Module 10 Challenge - Work Day Scheduler
+# Module 10 Challenge - SVG Logo Maker
 
 ## Description
 
